@@ -2,6 +2,15 @@
 
 The project is to design a backdoor detector for BadNets trained on the YouTube Face dataset.
 
+Dependencies -
+
+Python 3.6.9
+Keras 2.3.1
+Numpy 1.16.3
+Matplotlib 2.2.2
+H5py 2.9.0
+TensorFlow-gpu 1.15.2
+
 Github - https://github.com/sidsingh1809/lab4-backdoor-attacks
 
 Google drive - https://drive.google.com/drive/folders/1xez4c4v1d4cy-YciY_YmUe6GlmWkrOdK
@@ -9,3 +18,5 @@ Google drive - https://drive.google.com/drive/folders/1xez4c4v1d4cy-YciY_YmUe6Gl
 Colab - https://colab.research.google.com/drive/1B98jHD9welZRMvZWim8aBbPe6KPL7P0d#scrollTo=N6XlLubM9pRA
 
 To run the code - mount the data available at the drive link provided above.
+
+Pruned models - model_X=10.0.h5, model_X=4.0.h5, model_X=2.0.h5
